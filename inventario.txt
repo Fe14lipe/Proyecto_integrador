@@ -1,0 +1,9 @@
+8
+fofis 0 400.00
+nike 0 400.00
+puma 6419644 0.00
+nike 2 200.00
+puma 3 150.00
+puma 601012937 0.00
+camisetaspuma 2 20.00
+Zapatillas_Nike 2 200.00
